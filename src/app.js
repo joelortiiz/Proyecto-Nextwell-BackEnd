@@ -1,13 +1,13 @@
-// src/app.js
-const express = require('express');
-const gpuRoutes = require('./routes/gpuRoutes');
+// // src/app.js
+// const express = require('express');
+// const gpuRoutes = require('./routes/gpuRoutes');
 
-const app = express();
+// const app = express();
 
-// Middleware para parsear JSON
-app.use(express.json());
+// // Middleware para parsear JSON
+// app.use(express.json());
 
-// Rutas
-app.use('/api/gpus', gpuRoutes);
+// // Rutas
+// app.use('/api/gpus', gpuRoutes);
 
-module.exports = app;
+// module.exports = app;

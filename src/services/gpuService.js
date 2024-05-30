@@ -11,7 +11,7 @@ const fetchGpuData = async () => {
 
         // Asegúrate de que el selector coincide con la estructura HTML actual del sitio web
         $('.processors tbody tr').each((index, element) => {
-            const name = $(element).find('td').text().trim();
+            const name = $(element).find('td a').text().trim();
             if (name) {
                 gpus.push(name);
             }
