@@ -1,14 +1,9 @@
-const { scrapeCategory } = require('../services/scrappingComponents');
+const components = require("./../data/components.json");  
 
-async function getScrapedData(req, res) {
-  const category = req.params.category;
+const getComponents = (req, res) => {
+  res.json(components);
+};
 
-  try {
-    const productos = await scrapeCategory(category);
-    res.json(productos);
-  } catch (error) {
-    res.status(400).json({ error: error.message });
-  }
-}
-
-module.exports = { getScrapedData };
+module.exports = {
+  getComponents
+};
