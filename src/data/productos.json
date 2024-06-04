@@ -1,0 +1,165 @@
+{
+    "componentes": [
+        {
+            "tipo": "Tarjeta Gráfica",
+            "nombre": "NVIDIA GeForce RTX 3080",
+            "precio": 799,
+            "marca": "NVIDIA",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/1081/10811554/1130-gigabyte-geforce-rtx-4070-super-windforce-oc-12gb-gddr6x-dlss3.jpg"
+        },
+        {
+            "tipo": "Tarjeta Gráfica",
+            "nombre": "AMD Radeon RX 6800 XT",
+            "precio": 649,
+            "marca": "AMD",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/1073/10731503/2233-gigabyte-geforce-rtx-4060-ti-eagle-oc-8gb-gddr6-comprar.jpg"
+        },
+        {
+            "tipo": "Tarjeta Gráfica",
+            "nombre": "ASUS ROG Strix GeForce RTX 3090",
+            "precio": 1499,
+            "marca": "ASUS",
+            "stock": 10, 
+            "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/35/357848/1157-msi-geforce-rtx-3060-ventus-2x-oc-12gb-gddr6.jpg"
+        },
+        {
+            "tipo": "Tarjeta Gráfica",
+            "nombre": "GIGABYTE GeForce RTX 3070",
+            "precio": 649,
+            "marca": "GIGABYTE",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/1081/10819242/129-asus-dual-geforce-rtx-4070-super-evo-oc-edition-12gb-gddr6x-dlss3.jpg"
+        },
+           
+        {
+            "tipo": "Memoria RAM",
+            "nombre": "Corsair Vengeance LPX 16GB DDR4 3600MHz",
+            "precio": 89.99,
+            "marca": "Corsair",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/1076/10764411/1517-corsair-vengeance-ddr5-6000mhz-32gb-2x16gb-cl30.jpg"
+
+        },
+        {
+            "tipo": "Memoria RAM",
+            "nombre": "G.Skill Trident Z Neo 32GB DDR4 3600MHz",
+            "precio": 169.99,
+            "marca": "G.Skill",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/35/351290/1441-corsair-vengeance-lpx-ddr4-3200mhz-pc4-25600-32gb-2x16gb-cl16.jpg"
+        },
+        {
+            "tipo": "Memoria RAM",
+            "nombre": "Crucial Ballistix RGB 32GB (2 x 16GB) DDR4 3200MHz",
+            "precio": 129.99,
+            "marca": "Crucial",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/1079/10791955/1162-acer-predator-vesta-ii-rgb-ddr5-6000mhz-32gb-2x16gb-cl30.jpg"
+        },
+        {
+            "tipo": "Placa Base",
+            "nombre": "GIGABYTE B450 AORUS ELITE",
+            "precio": 109.99,
+            "marca": "GIGABYTE",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-150-150/articles/1063/10631547/1838-msi-mag-b650-tomahawk-wifi.jpg"
+        },
+        {
+            "tipo": "Placa Base",
+            "nombre": "ASRock B550M Steel Legend",
+            "precio": 129.99,
+            "marca": "ASRock",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-150-150/articles/1063/10632860/1549-asus-prime-z790-p-wifi.jpg"
+        },
+        {
+            "tipo": "Placa Base",
+            "nombre": "ASUS TUF Gaming X570-PLUS",
+            "precio": 189.99,
+            "marca": "ASUS",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-150-150/articles/1065/10651363/1182-gigabyte-b760m-ds3h-ddr4.jpg"
+        },
+        
+        {
+            "tipo": "SSD",
+            "nombre": "Samsung 980 PRO 1TB NVMe M.2",
+            "precio": 199.99,
+            "marca": "Samsung",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-150-150/articles/1006/10060348/1635-wd-black-sn770-2tb-nvme-ssd.jpg"
+        },
+        {
+            "tipo": "SSD",
+            "nombre": "Western Digital WD Black SN850 2TB NVMe M.2",
+            "precio": 449.99,
+            "marca": "Western Digital",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-150-150/articles/75/755122/1833-kioxia-exceria-pro-unidad-ssd-1tb-nvme-m2-2280.jpg"
+        },
+        {
+            "tipo": "SSD",
+            "nombre": "Crucial P2 1TB NVMe M.2",
+            "precio": 109.99,
+            "marca": "Crucial",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-150-150/articles/32/328741/1734-samsung-920-pro-ssd-1tb-pcie-nvme-m2.jpg"
+        },
+       
+       
+        {
+            "tipo": "Torre",
+            "nombre": "NZXT H510i",
+            "precio": 99.99,
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-150-150/articles/43/433834/1952-forgeon-arcanite-argb-mesh-torre-atx-negra-comprar.jpg"
+        },
+        {
+            "tipo": "Torre",
+            "nombre": "Corsair Crystal 570X RGB",
+            "precio": 189.99,
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-150-150/articles/43/433837/1837-forgeon-arcanite-argb-mesh-torre-atx-blanca.jpg"
+        },
+        {
+            "tipo": "Torre",
+            "nombre": "Phanteks Eclipse P300A Mesh",
+            "precio": 69.99,
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-150-150/articles/30/308257/1807-nfortec-caelum-black-rgb-cristal-templado-usb-30.jpg"
+        },
+        {
+            "tipo": "Torre",
+            "nombre": "Cooler Master MasterCase H500P Mesh",
+            "precio": 149.99,
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-150-150/articles/1067/10673348/1740-forgeon-tiberium-argb-cristal-templado-usb-30-blanca-opiniones.jpg"
+        },
+        {
+            "tipo": "CPU",
+            "nombre": "Intel Core i7-11700K",
+            "precio": 399.99,
+            "marca": "Intel",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-150-150/articles/1077/10779168/1549-intel-core-i7-14700kf-34-56ghz-box.jpg"
+        },
+        {
+            "tipo": "CPU",
+            "nombre": "AMD Ryzen 5 5600X",
+            "precio": 299.99,
+            "marca": "AMD",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-150-150/articles/1065/10656490/1718-amd-ryzen-5-7600-38-51-ghz-box.jpg"
+        },
+        {
+            "tipo": "CPU",
+            "nombre": "Intel Core i9-14900KF",
+            "precio": 699.99,
+            "marca": "Intel",
+            "stock": 10,
+            "imagen": "https://thumb.pccomponentes.com/w-150-150/articles/1077/10779174/1127-intel-core-i9-14900kf-32-6ghz-box.jpg"
+        }
+    ]
+}
